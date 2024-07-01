@@ -106,4 +106,15 @@
 		(remove_unused_layers no)
 		(uuid "9659bbbc-0444-4c50-bbc0-a7f1adae04d1")
 	)
+	(model "${KIPRJMOD}/footprints/Library.pretty/Choke.STEP"
+		(offset
+			(xyz 0 0 5.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 -90 0)
+		)
+	)
 )

@@ -11068,7 +11068,7 @@
 			(at 0 -0.5 90)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "b96ec6da-446e-46d4-a7a3-33694b0ee9be")
+			(uuid "4020529c-3c3b-45a7-9625-8802f78275ce")
 			(effects
 				(font
 					(size 1 1)
@@ -11080,7 +11080,7 @@
 			(at 0 1 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "8f751c74-69cb-4cc3-b81e-d7d208dafbad")
+			(uuid "c410547e-8592-4f0f-bdf6-db7c4c0545d5")
 			(effects
 				(font
 					(size 1 1)
@@ -11093,7 +11093,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "faec4951-488d-4ebd-8275-489824f1762a")
+			(uuid "5916e73d-a1ea-49d5-82ea-c99e233ecf24")
 			(effects
 				(font
 					(size 1 1)
@@ -11106,7 +11106,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ec0e645-2c69-4758-93c8-bbb6facc0435")
+			(uuid "aad28067-9a07-439a-937e-c10bf62c25e3")
 			(effects
 				(font
 					(size 1 1)
@@ -11119,7 +11119,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9ed4ba6c-9311-441a-9788-588f5abac662")
+			(uuid "8f59f43c-bdd3-4464-9c0c-755f302fae7a")
 			(effects
 				(font
 					(size 1 1)
@@ -11141,13 +11141,13 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "35b039c4-92ff-4c2f-b6f4-fa4036afe5a9")
+			(uuid "c2fe5705-b6fe-4daa-abd5-dda5a9813242")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "5c49a6c8-b63e-4285-9d6d-50da1ea009b2")
+			(uuid "44805b66-2d89-436c-a245-01588ec75ee0")
 			(effects
 				(font
 					(size 1 1)
@@ -11164,7 +11164,7 @@
 			(net 14 "/T0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "222a942f-4327-4c30-8707-4bc25906b0f4")
+			(uuid "25e46864-59d1-4732-baa8-6d66d2259308")
 		)
 		(pad "2" thru_hole circle
 			(at 0 6.5 90)
@@ -11175,11 +11175,11 @@
 			(net 29 "VCC")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "364d2920-1726-4c1d-9902-ffd1061790c2")
+			(uuid "76066647-93a2-4297-9c60-976d7bd5e73e")
 		)
-		(model "${KIPRJMOD}/packages3D/Choke.STEP"
+		(model "${KIPRJMOD}/footprints/Library.pretty/Choke.STEP"
 			(offset
-				(xyz 0 0 8.5)
+				(xyz 0 0 5.5)
 			)
 			(scale
 				(xyz 1 1 1)
