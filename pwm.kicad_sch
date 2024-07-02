@@ -7,7 +7,7 @@
 	(title_block
 		(title "Generador PWM")
 		(date "2024-06-21")
-		(rev "0.4")
+		(rev "1.0")
 		(company "Universidad Tecnológica Nacional - Facultad Regional Córdoba")
 		(comment 1 "Electrónica de Potencia")
 		(comment 2 "Grupo 3 / Curso 5R2")
@@ -2022,7 +2022,7 @@
 		)
 		(uuid "6db7ebfc-309f-411a-8305-28dc547d0c92")
 	)
-	(text_box "Calculo Rfq:\nf = 80kHz\nCt = 1nF\nRd = 100 Ω\nf = 1/(Ct[0.7RT+3Rd])\nRT = [(f.Ct)^-1 - 3Rd]/0.7\nRT = Rfq1 + Rvfq1\nRT = 17,5 ± 2,5  KΩ"
+	(text_box "Calculo Rfq:\nf_T = 80kHz -> f = 160kHz\nCt = 1nF\nRd = 100 Ω\nf = 1/(Ct[0.7RT+3Rd])\nRT = [(f.Ct)^-1 - 3Rd]/0.7\nRT = Rfq1 + Rvfq1\nRT = 5,8 ± 2,5  KΩ"
 		(exclude_from_sim no)
 		(at 134.62 123.19 0)
 		(size 25.4 13.97)
@@ -2224,6 +2224,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 227.33 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "793472a8-ed7c-4771-b169-5f26e949e7bf")
 		)
@@ -2299,6 +2308,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 100.33 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2379,6 +2397,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 241.3 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd5da9a8-0f80-48a8-9f22-e07cd2674f4a")
 		)
@@ -2449,6 +2476,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 144.78 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ed9cd477-9507-441b-925a-86a5cec5a372")
 		)
@@ -2485,7 +2521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "4.7uF"
 			(at 177.8 113.03 0)
 			(effects
 				(font
@@ -2527,6 +2563,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 175.26 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -2613,6 +2658,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 166.37 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "addbda52-a29b-4313-82b7-51922360026d")
 		)
@@ -2674,6 +2728,15 @@
 			)
 		)
 		(property "Description" "Regulating Pulse Width Modulators, NOR Logic, PDIP-16/SOIC-16"
+			(at 194.31 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 194.31 91.44 0)
 			(effects
 				(font
@@ -2810,6 +2873,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 127 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3bba836a-03b0-4aa7-891b-2aa4b9ee0549")
 		)
@@ -2887,6 +2959,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 116.84 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5269bf79-35dc-415a-a39f-4847a4c7df34")
 		)
@@ -2962,6 +3043,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 157.48 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -3050,6 +3140,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 63.5 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc9b5846-729b-4606-9d09-e8d00f92e126")
 		)
@@ -3136,6 +3235,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 86.36 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9abf3e8-782c-43aa-b3f1-c3878ede52ce")
 		)
@@ -3169,8 +3277,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "15k"
-			(at 153.162 103.886 0)
+		(property "Value" "5.8k"
+			(at 153.67 103.886 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3219,6 +3327,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 144.78 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3307,6 +3424,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 63.5 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3aadb69-0a35-42f7-91f6-59e155869001")
 		)
@@ -3382,6 +3508,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 73.66 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

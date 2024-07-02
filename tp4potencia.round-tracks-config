@@ -3,4 +3,4 @@ High Current	True	2.0	3
 High Voltage	True	2.0	3
 Mains	True	2.0	3
 Vaux	True	2.0	3
-False	True	False
+True	True	False

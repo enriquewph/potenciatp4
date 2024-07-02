@@ -7,7 +7,7 @@
 	(title_block
 		(title "Driver p/ Mosfet de potencia")
 		(date "2024-06-21")
-		(rev "0.4")
+		(rev "1.0")
 		(company "Universidad Tecnológica Nacional - Facultad Regional Córdoba")
 		(comment 1 "Electrónica de Potencia")
 		(comment 2 "Grupo 3 / Curso 5R2")
@@ -2120,6 +2120,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 133.35 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "ea2555e1-23df-4f26-b865-5c55e4945520")
 		)
@@ -2241,6 +2250,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 205.74 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f51dad1-4d1c-4b4a-924c-624491779916")
 		)
@@ -2316,6 +2334,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 149.86 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2395,6 +2422,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 191.77 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 191.77 102.87 0)
 			(effects
 				(font
@@ -2488,6 +2524,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 191.77 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8cfe7d76-7341-457e-aea2-fb0bcc6e7fb0")
 		)
@@ -2573,6 +2618,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 205.74 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3a47183-e48e-4cb0-9203-01fce04529cf")
 		)
@@ -2648,6 +2702,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 167.64 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -2726,6 +2789,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "manf#" ""
+			(at 96.52 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2811,6 +2883,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 191.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "75bdbba9-31bf-44f3-aa7a-daee4a403f98")
 		)
@@ -2886,6 +2967,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 78.74 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2971,6 +3061,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 191.77 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad64af4e-ea0a-4433-bc9b-2e7af9543173")
 		)
@@ -3046,6 +3145,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 167.64 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -3134,6 +3242,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 149.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "53070ef0-7a59-4d7d-9351-d54f77e25792")
 		)
@@ -3209,6 +3326,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 149.86 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

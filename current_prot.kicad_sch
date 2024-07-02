@@ -5,8 +5,9 @@
 	(uuid "dbfe22cc-2518-47af-a6ae-69db1c87720d")
 	(paper "A4")
 	(title_block
+		(title "Protección por corriente")
 		(date "2024-06-21")
-		(rev "0.4")
+		(rev "1.0")
 		(company "Universidad Tecnológica Nacional - Facultad Regional Córdoba")
 		(comment 1 "Electrónica de Potencia")
 		(comment 2 "Grupo 3 / Curso 5R2")
@@ -1685,6 +1686,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 132.08 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fcc9892-8dc7-48cd-a50e-4ee40f952acb")
 		)
@@ -1771,6 +1781,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 142.24 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "13ae0a0a-d8ef-4ea2-be51-6070b55e4e1a")
 		)
@@ -1835,6 +1854,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
+			(at 124.46 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 124.46 93.98 0)
 			(effects
 				(font
@@ -1964,6 +1992,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 102.87 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "314906c3-ee44-49e3-ae87-6b0eedf1be3e")
 		)
@@ -2026,6 +2063,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 102.87 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 102.87 96.52 0)
 			(effects
 				(font
@@ -2114,6 +2160,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 107.95 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf8edf7d-158d-4c2e-a74f-b87463482c77")
 		)
@@ -2184,6 +2239,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 132.08 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fc7f35f4-cce1-43d3-ac3b-29602ef42365")
 		)
@@ -2243,6 +2307,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
+			(at 124.46 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 124.46 93.98 0)
 			(effects
 				(font

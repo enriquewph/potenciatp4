@@ -7,7 +7,7 @@
 	(title_block
 		(title "Protecciones AC, Rectificador y fuente auxiliar de 12v")
 		(date "2024-06-21")
-		(rev "0.4")
+		(rev "1.0")
 		(company "Universidad Tecnológica Nacional - Facultad Regional Córdoba")
 		(comment 1 "Electrónica de Potencia")
 		(comment 2 "Grupo 3 / Curso 5R2")
@@ -2908,6 +2908,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 87.63 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0999522a-1875-4672-834a-bf28be0d435c")
 		)
@@ -2985,6 +2994,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 214.63 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6c67bfeb-5fb1-474c-ad99-de288f0e3008")
 		)
@@ -3045,6 +3063,15 @@
 			)
 		)
 		(property "Description" "Compact AC/DC board mount power module 3W 12V"
+			(at 133.35 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 133.35 118.11 0)
 			(effects
 				(font
@@ -3119,6 +3146,15 @@
 			)
 		)
 		(property "Description" "Temperature dependent resistor, negative temperature coefficient"
+			(at 105.41 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -3212,6 +3248,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 217.17 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6da3753-182e-4c33-a377-8bb17b6d99b8")
 		)
@@ -3287,6 +3332,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -3374,6 +3428,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 177.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3cbd71b6-3b3f-419f-a84e-a6a9f85d0faa")
 		)
@@ -3434,6 +3497,15 @@
 			)
 		)
 		(property "Description" "Single-Phase Bridge Rectifier, 700V Vrms, 6.0A If, GBU package"
+			(at 158.75 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 158.75 50.8 0)
 			(effects
 				(font
@@ -3523,6 +3595,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 148.59 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3661,6 +3742,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 217.17 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dd5842bd-08bf-41ea-a2b7-48aba1c9da7e")
 		)
@@ -3720,6 +3810,15 @@
 			)
 		)
 		(property "Description" "Fuse"
+			(at 48.26 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 48.26 43.18 0)
 			(effects
 				(font
@@ -3803,6 +3902,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 177.8 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3890,6 +3998,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 198.12 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d9417c18-fb41-4ffa-8e23-11b1144da846")
 		)
@@ -3973,6 +4090,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 198.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"

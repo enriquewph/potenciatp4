@@ -7,7 +7,7 @@
 	(title_block
 		(title "Trabajo Práctico Nº4: Fuente Conmutada Aislada 50W")
 		(date "2024-06-21")
-		(rev "0.4")
+		(rev "1.0")
 		(company "Universidad Tecnológica Nacional - Facultad Regional Córdoba")
 		(comment 1 "Electrónica de Potencia")
 		(comment 2 "Grupo 3 / Curso 5R2")
@@ -7229,6 +7229,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 134.62 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "f3c894d4-d41e-4291-94c4-83d7590aab62")
 		)
@@ -7358,6 +7367,15 @@
 			)
 		)
 		(property "Description" "OS102011MS2QS1"
+			(at 205.74 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 205.74 149.86 0)
 			(effects
 				(font
@@ -7502,6 +7520,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 190.5 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f42b8ea2-3e20-450f-a79d-bb30c1652685")
 		)
@@ -7561,6 +7588,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
+			(at 270.51 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 270.51 44.45 0)
 			(effects
 				(font
@@ -7677,6 +7713,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 267.97 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eebfe967-b653-40b5-961d-be0465703c90")
 		)
@@ -7739,6 +7784,15 @@
 			)
 		)
 		(property "Description" "8A Id, 500V Vds, HEXFET N-Channel MOSFET, TO-220"
+			(at 80.01 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 80.01 72.39 0)
 			(effects
 				(font
@@ -7882,6 +7936,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 251.46 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "56e6a52f-4c5a-473e-b711-9e152a8effc6")
 		)
@@ -7985,6 +8048,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 105.41 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4a5e40d8-59c6-40cb-8e91-0acbc117e159")
 		)
@@ -8050,6 +8122,15 @@
 			)
 		)
 		(property "Description" "Transformer, single primary, split secondary"
+			(at 135.89 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 135.89 80.01 0)
 			(effects
 				(font
@@ -8137,6 +8218,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 88.9 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "f472206f-0615-4c76-b205-f600fa61fa27")
 		)
@@ -8201,6 +8291,15 @@
 		)
 		(property "Description" "Diode"
 			(at 135.636 93.472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
+			(at 162.56 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8281,6 +8380,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 142.24 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e2c1b4d-01b7-425e-960d-1201e24259d3")
 		)
@@ -8340,6 +8448,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 185.42 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 185.42 139.7 0)
 			(effects
 				(font
@@ -8433,6 +8550,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 82.55 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25d5f33d-ffc3-47f3-9f81-bba4a5a73f38")
 		)
@@ -8494,6 +8620,15 @@
 			)
 		)
 		(property "Description" "OS102011MS2QS1"
+			(at 129.54 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 129.54 162.56 0)
 			(effects
 				(font
@@ -8575,6 +8710,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 248.92 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "tp4potencia"
 				(path "/e3fbab13-c24d-4871-93f8-5f6fcc17c4b1"
@@ -8629,6 +8773,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 143.51 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 143.51 25.4 0)
 			(effects
 				(font
@@ -8722,6 +8875,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 185.42 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4404a5e9-853d-44c4-810e-702b36170323")
 		)
@@ -8786,6 +8948,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 262.89 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 262.89 24.13 0)
 			(effects
 				(font
@@ -9000,6 +9171,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 205.74 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "820007a9-4518-437a-b2a0-30481b9cbb57")
 		)
@@ -9075,6 +9255,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 100.33 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "945dc6a6-ef61-4f94-9c50-5d343a73d4fc")
 		)
@@ -9108,7 +9297,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "150"
 			(at 110.744 69.088 0)
 			(effects
 				(font
@@ -9144,7 +9333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Power" "1/4W"
+		(property "Power" "2W"
 			(at 112.268 71.12 0)
 			(effects
 				(font
@@ -9158,6 +9347,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 109.22 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9296,6 +9494,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 172.72 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "79e9a8ae-6146-464a-b765-b03bb760ca5c")
 		)
@@ -9379,6 +9586,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 193.04 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b618093b-f927-4fc7-b90f-78527d3ea1b9")
 		)
@@ -9451,6 +9667,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 273.05 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4d6c466-c202-4878-89ca-92706caded9c")
 		)
@@ -9510,6 +9735,15 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
+			(at 248.92 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 248.92 26.67 0)
 			(effects
 				(font
@@ -9780,6 +10014,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 278.13 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97607f32-93b4-42e6-97cf-f2e4ea8885a5")
 		)
@@ -9976,6 +10219,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 180.34 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ff76937-b942-463a-a920-1d615a3ee51e")
 		)
@@ -10039,6 +10291,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 162.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 162.56 40.64 0)
 			(effects
 				(font
@@ -10129,6 +10390,15 @@
 				)
 			)
 		)
+		(property "manf#" ""
+			(at 218.44 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de542eac-e611-435c-8b67-f0adc951572a")
 		)
@@ -10204,6 +10474,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "manf#" ""
+			(at 109.22 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10342,6 +10621,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 248.92 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "tp4potencia"
 				(path "/e3fbab13-c24d-4871-93f8-5f6fcc17c4b1"
@@ -10397,6 +10685,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 270.51 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 270.51 105.41 0)
 			(effects
 				(font
@@ -10478,6 +10775,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 80.01 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "6c924744-b98d-4294-bce9-ac5105dfdb8a")
 		)
@@ -10543,6 +10849,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 218.44 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 218.44 87.63 0)
 			(effects
 				(font
@@ -10749,6 +11064,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 46.99 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0a38f00f-fcff-4085-aae2-1e7bbbb6cab7")
 		)
@@ -10812,6 +11136,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 161.29 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 161.29 27.94 0)
 			(effects
 				(font
